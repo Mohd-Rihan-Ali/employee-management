@@ -43,7 +43,7 @@ Before getting started, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mohd-Rihan-Ali/Employee-Management.git
+   git clone https://github.com/Mohd-Rihan-Ali/employee-management.git
    ```
 
 2. Install dependencies for the front-end:
