@@ -1,4 +1,3 @@
-```markdown
 # Employee Management
 
 Welcome to the Employee Management repository! This project is a comprehensive solution for managing employee data, featuring both a React-based front-end and a Flask-based back-end.
@@ -106,4 +105,4 @@ For any inquiries, you can reach out to the project owner:
 - Email: mohdrihanali4130@gmail.com
 
 Feel free to connect and contribute to make Employee Management even better!
-```
+
