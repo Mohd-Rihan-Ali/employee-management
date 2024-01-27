@@ -1,0 +1,48 @@
+.employee-list-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f8f9fa; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #007bff;
+  text-align: center;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+  color: #333; 
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.employee-list {
+  list-style: none;
+  padding: 0;
+}
+
+.employee-list li {
+  background-color: #ffffff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+.employee-list li:hover {
+  background-color: #f0f0f0; 
+}
